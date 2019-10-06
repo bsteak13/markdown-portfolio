@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+* Favorite foods
+  * Tacos
+  * Cheez-Its
+  * Mashed potatoes
+* Favorite color
+  * Orange
